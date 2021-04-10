@@ -2,6 +2,7 @@ package com.njtech.domain;
 
 public class Student {
     private String name;
+    private String iid;
 
     public String getName() {
         return name;
