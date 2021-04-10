@@ -3,6 +3,7 @@ package com.njtech.domain;
 public class Student {
     private String name;
     private String iid;
+    private int age;
 
     public String getName() {
         return name;
