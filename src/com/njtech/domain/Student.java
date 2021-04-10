@@ -7,6 +7,7 @@ public class Student {
     private int age1;
     private int age3;
 
+
     public String getName() {
         return name;
     }
